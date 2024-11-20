@@ -1,0 +1,67 @@
+{
+    "flags": [],
+    "sections": [
+        "turns"
+    ],
+    "all_new_sections": [
+        "turns",
+        "diagonals",
+        "s_bends",
+        "gentle_slopes",
+        "gentle_sloped_turns",
+        "large_sloped_turns"
+    ],
+    "z_offset": 0,
+    "length": 0.125,
+    "masks": "default",
+    "models": {
+        "mask": "track/mask.obj"
+    },
+    "track_models": [
+        {
+            "track": "track/track.obj",
+            "y_offset": 0.0,
+            "v_offset": 0.152994
+        },
+        {
+            "track": "track/side_left.obj",
+            "y_offset": 1.375
+        },
+        {
+            "track": "track/side_right.obj",
+            "y_offset": -1.375
+        }
+    ],
+    "lights": [
+        { "type": "diffuse", "shadow": true, "direction": [1.0, 0.555555, -1.0], "strength": 1.0 },
+        { "type": "specular", "shadow": true, "direction": [1.0, 0.555555, -1.0], "strength": 1.0 },
+
+        { "type": "diffuse", "shadow": false, "direction": [-1.0, 0.5, 0.0], "strength": 0.10 },
+        { "type": "diffuse", "shadow": false, "direction": [1.0, 0.5, 0.0], "strength": 0.10 },
+        { "type": "diffuse", "shadow": false, "direction": [0.0, 0.5, 1.0], "strength": 0.10 },
+        { "type": "diffuse", "shadow": false, "direction": [0.0, 0.5, -1.0], "strength": 0.10 },
+
+        { "type": "diffuse", "shadow": false, "direction": [-1.0, 0.5, -1.0], "strength": 0.10 },
+        { "type": "diffuse", "shadow": false, "direction": [-1.0, 0.5, 1.0], "strength": 0.10 },
+        { "type": "diffuse", "shadow": false, "direction": [1.0, 0.5, -1.0], "strength": 0.10 },
+        { "type": "diffuse", "shadow": false, "direction": [1.0, 0.5, 1.0], "strength": 0.10 }
+    ],
+    "offsets": {
+        "flat": [ 0, 0, 0, 0, 0, 0, 0, -0.5 ],
+        "gentle": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+        "steep": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+        "bank": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+        "gentle_bank": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+        "inverted": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+        "diagonal": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+        "diagonal_gentle": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+        "diagonal_bank": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+        "diagonal_gentle_bank": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+    },
+    "edge_distance": 1024,
+    "base_directory": "C:/files/rct-go-karts/track/",
+    "masks_directory": "C:/Files/RCTGen/TrackRender/masks/",
+    "sprite_directory": "track/go_karts/",
+    "spritefile_in": "sprites_old.json",
+    "spritefile_out": "sprites.json"
+}

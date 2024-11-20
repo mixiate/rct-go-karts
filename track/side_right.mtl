@@ -1,0 +1,14 @@
+newmtl Track_DarkEdge_NoAO
+Ns 4.0
+Ks 1.0 1.0 1.0
+map_Kd track/textures/track.png
+
+newmtl Tires_DarkEdge_NoAO
+Ns 7.5
+Kd 0.05 0.05 0.06
+Ks 1.25 1.25 1.25
+
+newmtl Remap1_DarkEdge_NoAO
+Ns 7.5
+Kd 0.0 0.275 0.0
+Ks 1.0 1.0 1.0
