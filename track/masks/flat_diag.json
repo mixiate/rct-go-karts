@@ -44,8 +44,8 @@
                     "image_path": "flat_diag_2.png",
                     "color": 203,
                     "mask_type": "none",
-                    "offset_x": -32,
-                    "offset_y": 0,
+                    "offset_x": 0,
+                    "offset_y": 16,
                     "flipped": false
                 },
                 {
