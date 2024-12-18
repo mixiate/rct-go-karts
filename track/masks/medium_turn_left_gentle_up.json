@@ -149,7 +149,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "medium_turn_left_gentle_up_2.png",
+                    "image_path": "medium_turn_left_gentle_up_2_6.png",
                     "color": 204,
                     "mask_type": "difference",
                     "offset_x": -64,
