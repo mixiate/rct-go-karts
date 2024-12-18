@@ -1,6 +1,14 @@
 {
     "flags": [],
     "sections": [
+        "turns",
+        "diagonals",
+        "s_bends",
+        "gentle_slopes",
+        "steep_slopes",
+        "small_slope_transitions",
+        "large_slope_transitions",
+        "gentle_sloped_turns",
         "large_sloped_turns"
     ],
     "all_new_sections": [
@@ -50,9 +58,9 @@
         { "type": "diffuse", "shadow": false, "direction": [1.0, 0.5, 1.0], "strength": 0.10 }
     ],
     "offsets": {
-        "flat": [ 0, 0, 0, 0, 0, 0, 0, -0.5 ],
+        "flat": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
         "gentle": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
-        "steep": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+        "steep": [ 0, 0.25, 0, 0, 0, 0, 0, 0.25 ],
         "bank": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
         "gentle_bank": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
         "inverted": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
