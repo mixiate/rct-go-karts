@@ -107,6 +107,24 @@
                     "image_path": "small_turn_left_gentle_up_2.png",
                     "color": 203,
                     "mask_type": "intersect",
+                    "offset_x": -32,
+                    "offset_y": 0,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "small_turn_left_gentle_up_2.png",
+                    "color": 203,
+                    "mask_type": "difference",
+                    "offset_x": -32,
+                    "offset_y": 0,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "small_turn_left_gentle_up_2.png",
+                    "color": 204,
+                    "mask_type": "intersect",
                     "offset_x": -64,
                     "offset_y": 16,
                     "flipped": false
@@ -114,7 +132,7 @@
                 {
                     "use_mask": true,
                     "image_path": "small_turn_left_gentle_up_2.png",
-                    "color": 203,
+                    "color": 204,
                     "mask_type": "difference",
                     "offset_x": -64,
                     "offset_y": 16,
@@ -149,6 +167,24 @@
                     "image_path": "small_turn_left_gentle_up_3.png",
                     "color": 203,
                     "mask_type": "intersect",
+                    "offset_x": 32,
+                    "offset_y": 0,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "small_turn_left_gentle_up_3.png",
+                    "color": 203,
+                    "mask_type": "difference",
+                    "offset_x": 32,
+                    "offset_y": 0,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "small_turn_left_gentle_up_3.png",
+                    "color": 204,
+                    "mask_type": "intersect",
                     "offset_x": 0,
                     "offset_y": -16,
                     "flipped": false
@@ -156,7 +192,7 @@
                 {
                     "use_mask": true,
                     "image_path": "small_turn_left_gentle_up_3.png",
-                    "color": 203,
+                    "color": 204,
                     "mask_type": "difference",
                     "offset_x": 0,
                     "offset_y": -16,
