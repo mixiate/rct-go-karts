@@ -1,9 +1,7 @@
 {
     "flags": [],
     "sections": [
-        "turns",
-        "gentle_slopes",
-        "gentle_sloped_turns"
+        "large_sloped_turns"
     ],
     "all_new_sections": [
         "turns",
