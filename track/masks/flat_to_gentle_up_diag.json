@@ -8,7 +8,7 @@
             "masks": [
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 202,
                     "mask_type": "intersect",
                     "offset_x": 32,
@@ -17,7 +17,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 202,
                     "mask_type": "difference",
                     "offset_x": 32,
@@ -26,7 +26,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 203,
                     "mask_type": "intersect",
                     "offset_x": 0,
@@ -35,7 +35,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 203,
                     "mask_type": "difference",
                     "offset_x": 0,
@@ -44,7 +44,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 204,
                     "mask_type": "intersect",
                     "offset_x": -32,
@@ -53,7 +53,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 204,
                     "mask_type": "difference",
                     "offset_x": -32,
@@ -92,7 +92,7 @@
             "masks": [
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 202,
                     "mask_type": "intersect",
                     "offset_x": -32,
@@ -101,7 +101,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 202,
                     "mask_type": "difference",
                     "offset_x": -32,
@@ -110,7 +110,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 203,
                     "mask_type": "intersect",
                     "offset_x": 0,
@@ -119,7 +119,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 203,
                     "mask_type": "difference",
                     "offset_x": 0,
@@ -128,7 +128,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 204,
                     "mask_type": "intersect",
                     "offset_x": 32,
@@ -137,7 +137,7 @@
                 },
                 {
                     "use_mask": true,
-                    "image_path": "gentle_diag_1.png",
+                    "image_path": "flat_diag_1.png",
                     "color": 204,
                     "mask_type": "difference",
                     "offset_x": 32,
