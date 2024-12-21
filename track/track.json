@@ -1,8 +1,15 @@
 {
     "flags": [],
     "sections": [
+        "turns",
         "diagonals",
-        "steep_slopes"
+        "s_bends",
+        "gentle_slopes",
+        "steep_slopes",
+        "small_slope_transitions",
+        "large_slope_transitions",
+        "gentle_sloped_turns",
+        "large_sloped_turns"
     ],
     "all_new_sections": [
         "turns",
@@ -25,7 +32,7 @@
         {
             "track": "track/track.obj",
             "y_offset": 0.0,
-            "v_offset": 0.152994
+            "v_offset": 0.1
         },
         {
             "track": "track/side_left.obj",

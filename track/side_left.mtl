@@ -1,12 +1,10 @@
 newmtl Track_DarkEdge_NoAO
-Ns 2.0
-Ks 1.0 1.0 1.0
+Ns 1.35
 map_Kd track/textures/track.png
 map_Ks track/textures/track_specular.png
 
 newmtl Track_DarkEdge_NoAO_NoBleed
-Ns 2.0
-Ks 1.0 1.0 1.0
+Ns 1.35
 map_Kd track/textures/track.png
 map_Ks track/textures/track_specular.png
 
