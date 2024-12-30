@@ -28,17 +28,8 @@
                     "use_mask": true,
                     "image_path": "medium_turn_left_1.png",
                     "color": 203,
-                    "mask_type": "intersect",
-                    "offset_x": -32,
-                    "offset_y": 16,
-                    "flipped": false
-                },
-                {
-                    "use_mask": true,
-                    "image_path": "medium_turn_left_1.png",
-                    "color": 203,
-                    "mask_type": "difference",
-                    "offset_x": -32,
+                    "mask_type": "none",
+                    "offset_x": 32,
                     "offset_y": 16,
                     "flipped": false
                 },
@@ -47,8 +38,8 @@
                     "image_path": "medium_turn_left_1.png",
                     "color": 204,
                     "mask_type": "intersect",
-                    "offset_x": 0,
-                    "offset_y": 32,
+                    "offset_x": -32,
+                    "offset_y": 16,
                     "flipped": false
                 },
                 {
@@ -56,6 +47,15 @@
                     "image_path": "medium_turn_left_1.png",
                     "color": 204,
                     "mask_type": "difference",
+                    "offset_x": -32,
+                    "offset_y": 16,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "medium_turn_left_1.png",
+                    "color": 205,
+                    "mask_type": "intersect",
                     "offset_x": 0,
                     "offset_y": 32,
                     "flipped": false
@@ -64,6 +64,15 @@
                     "use_mask": true,
                     "image_path": "medium_turn_left_1.png",
                     "color": 205,
+                    "mask_type": "difference",
+                    "offset_x": 0,
+                    "offset_y": 32,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "medium_turn_left_1.png",
+                    "color": 206,
                     "mask_type": "intersect",
                     "offset_x": 32,
                     "offset_y": 48,
@@ -72,7 +81,7 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_1.png",
-                    "color": 205,
+                    "color": 206,
                     "mask_type": "difference",
                     "offset_x": 32,
                     "offset_y": 48,
@@ -81,17 +90,8 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_1.png",
-                    "color": 206,
+                    "color": 207,
                     "mask_type": "intersect",
-                    "offset_x": -32,
-                    "offset_y": 48,
-                    "flipped": false
-                },
-                {
-                    "use_mask": true,
-                    "image_path": "medium_turn_left_1.png",
-                    "color": 206,
-                    "mask_type": "difference",
                     "offset_x": -32,
                     "offset_y": 48,
                     "flipped": false
@@ -100,6 +100,15 @@
                     "use_mask": true,
                     "image_path": "medium_turn_left_1.png",
                     "color": 207,
+                    "mask_type": "difference",
+                    "offset_x": -32,
+                    "offset_y": 48,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "medium_turn_left_1.png",
+                    "color": 208,
                     "mask_type": "intersect",
                     "offset_x": 0,
                     "offset_y": 64,
@@ -108,7 +117,7 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_1.png",
-                    "color": 207,
+                    "color": 208,
                     "mask_type": "difference",
                     "offset_x": 0,
                     "offset_y": 64,
@@ -142,6 +151,15 @@
                     "use_mask": true,
                     "image_path": "medium_turn_left_2.png",
                     "color": 203,
+                    "mask_type": "none",
+                    "offset_x": -32,
+                    "offset_y": 16,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "medium_turn_left_2.png",
+                    "color": 204,
                     "mask_type": "intersect",
                     "offset_x": -32,
                     "offset_y": -16,
@@ -150,7 +168,7 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_2.png",
-                    "color": 203,
+                    "color": 204,
                     "mask_type": "difference",
                     "offset_x": -32,
                     "offset_y": -16,
@@ -159,17 +177,8 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_2.png",
-                    "color": 204,
+                    "color": 205,
                     "mask_type": "intersect",
-                    "offset_x": -64,
-                    "offset_y": 0,
-                    "flipped": false
-                },
-                {
-                    "use_mask": true,
-                    "image_path": "medium_turn_left_2.png",
-                    "color": 204,
-                    "mask_type": "difference",
                     "offset_x": -64,
                     "offset_y": 0,
                     "flipped": false
@@ -187,6 +196,24 @@
                     "use_mask": true,
                     "image_path": "medium_turn_left_2.png",
                     "color": 206,
+                    "mask_type": "difference",
+                    "offset_x": -64,
+                    "offset_y": 0,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "medium_turn_left_2.png",
+                    "color": 207,
+                    "mask_type": "none",
+                    "offset_x": -96,
+                    "offset_y": 16,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "medium_turn_left_2.png",
+                    "color": 208,
                     "mask_type": "intersect",
                     "offset_x": -96,
                     "offset_y": -16,
@@ -195,7 +222,7 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_2.png",
-                    "color": 206,
+                    "color": 208,
                     "mask_type": "difference",
                     "offset_x": -96,
                     "offset_y": -16,
@@ -204,7 +231,7 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_2.png",
-                    "color": 207,
+                    "color": 209,
                     "mask_type": "intersect",
                     "offset_x": -128,
                     "offset_y": 0,
@@ -213,7 +240,7 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_2.png",
-                    "color": 207,
+                    "color": 209,
                     "mask_type": "difference",
                     "offset_x": -128,
                     "offset_y": 0,
@@ -301,6 +328,15 @@
                     "use_mask": true,
                     "image_path": "medium_turn_left_3.png",
                     "color": 206,
+                    "mask_type": "none",
+                    "offset_x": -32,
+                    "offset_y": -48,
+                    "flipped": false
+                },
+                {
+                    "use_mask": true,
+                    "image_path": "medium_turn_left_3.png",
+                    "color": 207,
                     "mask_type": "intersect",
                     "offset_x": 32,
                     "offset_y": -48,
@@ -309,7 +345,7 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_3.png",
-                    "color": 206,
+                    "color": 207,
                     "mask_type": "difference",
                     "offset_x": 32,
                     "offset_y": -48,
@@ -318,7 +354,7 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_3.png",
-                    "color": 207,
+                    "color": 208,
                     "mask_type": "intersect",
                     "offset_x": 0,
                     "offset_y": -64,
@@ -327,7 +363,7 @@
                 {
                     "use_mask": true,
                     "image_path": "medium_turn_left_3.png",
-                    "color": 207,
+                    "color": 208,
                     "mask_type": "difference",
                     "offset_x": 0,
                     "offset_y": -64,
