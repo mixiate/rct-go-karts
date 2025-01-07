@@ -83,24 +83,6 @@
                     "offset_x": 0,
                     "offset_y": 16,
                     "flipped": false
-                },
-                {
-                    "use_mask": true,
-                    "image_path": "flat_diag_2.png",
-                    "color": 204,
-                    "mask_type": "none",
-                    "offset_x": 32,
-                    "offset_y": 0,
-                    "flipped": false
-                },
-                {
-                    "use_mask": true,
-                    "image_path": "flat_diag_2.png",
-                    "color": 205,
-                    "mask_type": "none",
-                    "offset_x": 0,
-                    "offset_y": 16,
-                    "flipped": false
                 }
             ]
         },
