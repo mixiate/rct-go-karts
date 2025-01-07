@@ -1,15 +1,8 @@
 {
     "flags": [],
     "sections": [
-        "turns",
         "diagonals",
-        "s_bends",
-        "gentle_slopes",
-        "steep_slopes",
-        "small_slope_transitions",
-        "large_slope_transitions",
-        "gentle_sloped_turns",
-        "large_sloped_turns"
+        "gentle_slopes"
     ],
     "all_new_sections": [
         "turns",
@@ -83,6 +76,21 @@
         { "track_section": "large_turn_left_to_diag_gentle_up", "view": 0, "distance": 0.25 },
         { "track_section": "large_turn_left_to_diag_gentle_up", "view": 1, "distance": 0.25 },
         { "track_section": "large_turn_right_to_diag_gentle_up", "view": 0, "distance": 0.5 }
+    ],
+    "track_section_length": [
+        { "track_section": "steep_to_gentle_up", "end_addition": 0.05 },
+        { "track_section": "steep_to_flat_up", "end_addition": 0.1 },
+
+        { "track_section": "gentle_to_steep_up_diag", "end_addition": 0.1 },
+        { "track_section": "steep_diag", "end_addition": 0.1 },
+
+        { "track_section": "small_turn_left_gentle_up", "end_addition": 0.1 },
+        { "track_section": "small_turn_right_gentle_up", "end_addition": 0.1 },
+        { "track_section": "medium_turn_left_gentle_up", "end_addition": 0.1 },
+        { "track_section": "medium_turn_right_gentle_up", "end_addition": 0.1 },
+
+        { "track_section": "large_turn_left_to_orthogonal_gentle_up", "end_addition": 0.1 },
+        { "track_section": "large_turn_right_to_orthogonal_gentle_up", "end_addition": 0.1 }
     ],
     "edge_distance": 1024,
     "base_directory": "C:/files/rct-go-karts/track/",
