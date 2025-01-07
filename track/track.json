@@ -2,6 +2,7 @@
     "flags": [],
     "sections": [
         "gentle_slopes",
+        "steep_slopes",
         "diagonals"
     ],
     "all_new_sections": [
