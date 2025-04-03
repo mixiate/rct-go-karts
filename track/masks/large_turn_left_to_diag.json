@@ -221,8 +221,8 @@
                     "image_path": "large_turn_left_to_diag_3.png",
                     "color": 203,
                     "mask_type": "none",
-                    "offset_x": -32,
-                    "offset_y": -16,
+                    "offset_x": 0,
+                    "offset_y": 0,
                     "flipped": false
                 },
                 {
@@ -318,7 +318,7 @@
                     "color": 203,
                     "mask_type": "none",
                     "offset_x": 32,
-                    "offset_y": -16,
+                    "offset_y": 16,
                     "flipped": false
                 },
                 {

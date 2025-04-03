@@ -48,7 +48,7 @@
                     "color": 204,
                     "mask_type": "none",
                     "offset_x": -32,
-                    "offset_y": -16,
+                    "offset_y": 16,
                     "flipped": false
                 },
                 {
